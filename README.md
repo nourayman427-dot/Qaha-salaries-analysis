@@ -38,8 +38,8 @@ The application automatically cleans the raw Excel file:
 *   **Auto-Path Detection:** Locates `salaries2.xlsx` automatically in the directory.
 *   **Noise Removal:** Filters out administrative rows (e.g.,NAN,"أسم العامل", "اجمالي").
 *   **Format Handling:** Trims whitespace and handles mixed data types.
-*   ** Handling missing columns and raws by removing them.
-*   ** Assuring correct data type for all data columns.
+*   **Handling missing** columns and raws by removing them.
+*   **Assuring correct** data type for all data columns.
 
 ---
 
